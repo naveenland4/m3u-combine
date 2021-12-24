@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/aquilax/m3u"
+	"github.com/naveenland4/m3u"
 )
 
 func main() {
